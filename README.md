@@ -37,6 +37,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [WechatLoading](https://github.com/qq273681448/WechatLoading) ★14 - 加载框布局LoadingView 
 - [wxTabs](https://github.com/hss01248/wxTabs) ★13 - 微信小程序的多tab实现 
 - [wxapp-lock](https://github.com/demi520/wxapp-lock) ★12 - 微信小程序手势解锁 
+- [MinUI](https://github.com/meili/minui) - 美丽说微信小程序 UI 库
 
 ## 开发框架 
 
